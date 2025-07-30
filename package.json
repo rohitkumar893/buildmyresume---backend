@@ -1,5 +1,5 @@
 {
-  "name": "resume-builder-backend",
+  "name": "quiqresume-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
